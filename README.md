@@ -9,6 +9,6 @@ I was born and raised in Albany, GA. I attended Albany State University as a Vel
 - 👯 I’m looking to collaborate on things with students in my department. It's slow, right now, but will get better.
 - 🤔 I’m looking for help with Python always
 - 💬 Ask me about statistics, data science, R/RStudio, SAS, etc
-- 📫 How to reach me: http://publish.illinois.edu/kinson2/
+- 📫 How to reach me: http://publish.illinois.edu/kinson2/ or on LinkedIn https://www.linkedin.com/in/christopher-kinson-2b68567a
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I do and I teach. I teach and I do.
